@@ -1,7 +1,7 @@
 [
 	{
 		"id": 72,
-		"use_standard_fields": true,
+		"use_standard_fields": false,
 		"module_name": {
 			"value": "Property Explorer"
 		}
