@@ -1,9 +1,16 @@
 [
 	{
 		"id": 72,
+		"type": "module",
 		"use_standard_fields": false,
-		"module_name": {
-			"value": "Property Explorer"
+		"name": "Property Explorer",
+		"system_fields": {
+			"module_field_72_1": {
+				"name": "Field Name",
+				"type": "input_text",
+				"live": true,
+				"required": false
+			}
 		}
 	}
 ]
